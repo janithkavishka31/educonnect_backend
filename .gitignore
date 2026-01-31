@@ -28,6 +28,8 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+src/main/resources/*firebase-adminsdk*.json
+
 
 ### VS Code ###
 .vscode/
